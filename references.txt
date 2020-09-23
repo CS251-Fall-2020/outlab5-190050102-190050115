@@ -1,1 +1,7 @@
 https://stackoverflow.com/questions/17048188/how-to-use-awk-sort-by-column-3
+https://linuxize.com/post/how-to-check-if-string-contains-substring-in-bash/
+https://linuxize.com/post/bash-case-statement/
+https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/
+https://www.thegeekstuff.com/2010/01/8-powerful-awk-built-in-variables-fs-ofs-rs-ors-nr-nf-filename-fnr/
+https://unix.stackexchange.com/questions/565177/how-to-echo-color-using-awk
+https://www.shortcutfoo.com/app/dojos/awk/cheatsheet

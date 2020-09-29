@@ -1,7 +1,6 @@
 BEGIN{
     FS=",";
     RS="\r\n";
-    # OFS="\r\n";
 }{
     if(NR == 1 || NR == 2){
         for(j=0;j<120;j++) printf("-");
